@@ -115,4 +115,4 @@ O React é uma escolha valiosa para projetos web, pois permite criar interfaces 
 - [Klaus G. Kuhlmann](https://www.linkedin.com/in/klausGkuhlmann/)
 - [Arthur Claro](https://www.linkedin.com/in/arthur-claro-8113b41a6/)
 
-## :dart: Fashion Store
+## :dart: Fashion Store ... [Figma 🎨](https://www.figma.com/file/PjMqKkuTOt87DcufrQ0WJV/Fashion-Store?type=design&node-id=0-1&mode=design&t=PmZbV1Bq8Sro8WGT-0)
