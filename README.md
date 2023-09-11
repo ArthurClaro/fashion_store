@@ -24,7 +24,7 @@
    
 </p>
 
-## Getting Started
+## [Getting Started / Click Here ](https://fashion-store-2zvtblmig-arthurclaro.vercel.app/)
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para instalar as dependencias:
