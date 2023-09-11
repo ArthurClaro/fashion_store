@@ -1,0 +1,51 @@
+.containerBox {
+    display: flex;
+    flex-direction: column;
+    gap: 3.75rem;
+
+    img {
+        width: clamp(15.625rem, 100%, 51.25rem);
+    }
+}
+
+.flexBox {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 35.5rem;
+
+    @media(max-width: 913px) {
+        max-width: none;
+    }
+
+    .welcome {
+        margin-bottom: 1.69rem;
+    }
+
+}
+
+.buttonBack {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent;
+    border: none;
+    width: 20%;
+    gap: 10px;
+    cursor: pointer;
+
+    img {
+        width: 16px;
+        height: 16px;
+    }
+}
+
+@media (min-width:913px) {
+    .containerBox {
+        flex-direction: row;
+
+        img {
+            width: 52%;
+        }
+    }
+}

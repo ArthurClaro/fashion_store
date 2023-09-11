@@ -1,0 +1,27 @@
+.sectionStyle {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    margin-top: 50px;
+    padding-bottom: 470px;
+
+    .logoutDiv {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        button {
+            display: inline-flex;
+            align-items: center;
+            background-color: transparent;
+            border: none;
+            cursor: pointer;
+            outline: none;
+        }
+    }
+
+    .navi {
+        display: flex;
+        gap: 50px;
+    }
+}

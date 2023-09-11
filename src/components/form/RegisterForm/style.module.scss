@@ -1,0 +1,12 @@
+.flexBox {
+    display: flex;
+    flex-direction: column;
+    gap: 1.19rem;
+    width: 100%;
+
+    .registerButton {
+        display: flex;
+        justify-content: end;
+        margin-top: 0.37rem;
+    }
+}
